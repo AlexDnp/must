@@ -5,7 +5,7 @@
     {
       "chipFamily": "esp32-c3-devkitm-1",
       "ota": {
-        "path": "https://alexdnp.github.io/must/firmware/firmware.bin"
+        "path": "https://alexdnp.github.io/must/firmware/firmware.bin",
       }
     }
   ]
