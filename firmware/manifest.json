@@ -1,6 +1,6 @@
 {
   "name": "must-monitor1",
-  "version": "2024.6.1",
+  "version": "3.2.1",
   "builds": [
     {
       "chipFamily": "ESP32-C3",
