@@ -1,1 +1,1 @@
-must.github.io
+https://alexdnp.github.io/must/
