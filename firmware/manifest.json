@@ -1,7 +1,7 @@
 {
   "name": "must-monitor1",
   "version": "2.3.3",
-  "Current Version":"2.3.3",
+  "Current Version": "2.3.3",
   "builds": [
     {
       "chipFamily": "esp32-c3-devkitm-1",
