@@ -4,7 +4,7 @@
   "Current Version": "2.3.4",
   "builds": [
     {
-      "chipFamily": "esp32c3",
+      "chipFamily": "ESP32C3",
       "ota": {
         "path": "https://alexdnp.github.io/must/firmware/firmware.bin",
         "md5": "4388db0465f25ed19fcd31f4a5f6ea95"
